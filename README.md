@@ -30,10 +30,10 @@
   <img src="https://img.shields.io/badge/-WebSocket-black?style=flat-square&logo=websocket&logoColor=white" alt="websocket" height="28"/>
 </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Activity:
+![](https://github-readme-activity-graph.vercel.app/graph?username=januarsetyo&theme=react-dark&hide_border=true&area=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=januarsetyo&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=januarsetyo&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=januarsetyo&theme=radical&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=januarsetyo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
